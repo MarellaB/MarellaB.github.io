@@ -1,0 +1,5 @@
+Primary: #5A98FA
+Complementary: #FF944B
+DarkGray: #444B55
+LightGray: #EAF0FA
+White: #FFFFFF
