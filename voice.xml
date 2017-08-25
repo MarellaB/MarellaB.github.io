@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Hello, this is a call from the Perry Public Library. We are letting you know that you have dog training coming up at 7pm tomorrow, on the 26th.</Say>
+</Response>
